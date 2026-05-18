@@ -1,12 +1,11 @@
 # 💡 Yehi Or — Sistema de Reporte e Gestão de Postes
-
 > Plataforma web colaborativa que conecta cidadãos e equipes de manutenção para resolução ágil de problemas em postes de iluminação pública.
 
 ---
 
 ## 📌 Sobre o Projeto
 
-O **LuzAlerta** é uma aplicação web desenvolvida por uma equipe de 3 pessoas com o objetivo de modernizar a gestão da iluminação pública municipal. O sistema permite que qualquer cidadão reporte problemas em postes próximos à sua residência — como lâmpadas apagadas, fios cortados ou estruturas danificadas — diretamente pelo navegador, sem precisar ligar para nenhuma central.
+O **Yehi Or** é uma aplicação web desenvolvida por uma equipe de 3 pessoas com o objetivo de modernizar a gestão da iluminação pública municipal. O sistema permite que qualquer cidadão reporte problemas em postes próximos à sua residência — como lâmpadas apagadas, fios cortados ou estruturas danificadas — diretamente pelo navegador, sem precisar ligar para nenhuma central.
 
 Do outro lado, administradores e equipes de gestão têm acesso a um painel completo para visualizar, priorizar e acompanhar a resolução de cada ocorrência.
 
@@ -42,7 +41,6 @@ O sistema identifica o tipo de usuário no momento do login e redireciona para a
 - [ ] Painel com todos os reportes recebidos
 - [ ] Filtrar por status (pendente, em andamento, resolvido)
 - [ ] Atualizar o status de uma ocorrência
-- [ ] Visualizar localização dos postes reportados
 - [ ] Dashboard com métricas e estatísticas
 
 ---
@@ -84,7 +82,6 @@ O sistema identifica o tipo de usuário no momento do login e redireciona para a
 - [ ] Sistema de autenticação com dois perfis
 - [ ] Tela de reporte para o cidadão
 - [ ] Painel administrativo
-- [ ] Integração com mapa
 - [ ] Testes e correções
 - [ ] Deploy
 
@@ -92,11 +89,11 @@ O sistema identifica o tipo de usuário no momento do login e redireciona para a
 
 ## 👨‍💻 Equipe
 
-| Nome | Função |
-|---|---|
-| Allan | Tabelas e Banco |
-| Athos | Frontend |
-| Ryan | Backend |
+| Nome | GitHub | Função |
+|---|---|---|
+| Allan | [@AllanBS429](https://github.com/AllanBS429) | Tabelas e Banco |
+| Athos | [@Athoscrosa](https://github.com/Athoscrosa) | Frontend |
+| Ryan | [@ryanvasq325](https://github.com/ryanvasq325) | Backend |
 
 ---
 
